@@ -2,6 +2,7 @@
 
 
 #### reference
+* [Princeton-Advanced Computer Systems (518), fall 2019](https://www.cs.princeton.edu/courses/archive/fall19/cos418/518.html)
 * [15-712 Advanced and Distributed Operating Systems, Fall 2019](https://www.cs.cmu.edu/~15712/syllabus.html) 
 * [04833320: 40 Years Distributed Systems Research](http://soar.group/DistSys/Summer17/syllabus.html)
 * [IERG 4080 / ESTR 4312 - Building Scalable Internet-based Services](http://ierg4080.albertauyeung.com/) 
