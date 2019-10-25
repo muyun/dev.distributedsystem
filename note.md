@@ -2,6 +2,7 @@
 
 
 #### reference
+* **[Princeton-COS 316-Principles of Computer System Design, Fall 2019](https://www.cs.princeton.edu/courses/archive/fall19/cos316/#lectures)**
 * **[Princeton-COS518: Advanced Computer Systems,fall 2019](https://www.cs.princeton.edu/courses/archive/fall19/cos418/518.html)**
 * **[04833320: 40 Years Distributed Systems Research](http://soar.group/DistSys/Summer17/syllabus.html)**
 * 
